@@ -13,11 +13,14 @@ if($query->num_rows == 1) {
         $_SESSION["authenticated"] = true;
 //        if it isn't set to true that means the user can not login
         echo "<p> Login Successful!<p>";
+        
     }
     else {
-        echo "<p>Invalid username and password</p>";
+        echo "<p>Invalid username and password1</p>";
     }
 }
 else {
-    echo "<p>Invalid username and password</p>";
+    echo "<p>Invalid username and password2</p>";
 }
+?>
+<button><a href="../logout-user.php">Logout</a></button>
