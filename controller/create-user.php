@@ -10,7 +10,7 @@ $salt = "$5$" . "round = 5000$" . uniqid(mt_rand(), true) . "$";
 
 $hashedPassword = crypt($password, $salt);
 //it will show us what is happening in the varible
-$query = $_SESSION["connection"]->query("INSERT INTO user SET "
+$query = $_SESSION["connection"]->query("INSERT INTO users SET "
         . "email = '$email',"
         . "username = '$username',"
         . "password = '$hashedPassword',"

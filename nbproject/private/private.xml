@@ -6,11 +6,12 @@
             <file>file:/C:/xampp/htdocs/CastilloR-Blog/login.php</file>
             <file>file:/C:/xampp/htdocs/CastilloR-Blog/index.php</file>
             <file>file:/C:/xampp/htdocs/CastilloR-Blog/register.php</file>
-            <file>file:/C:/xampp/htdocs/CastilloR-Blog/controller/logout-user.php</file>
-            <file>file:/C:/xampp/htdocs/CastilloR-Blog/controller/login-verify.php</file>
+            <file>file:/C:/xampp/htdocs/CastilloR-Blog/model/config.php</file>
+            <file>file:/C:/xampp/htdocs/CastilloR-Blog/controller/create-user.php</file>
+            <file>file:/C:/xampp/htdocs/CastilloR-Blog/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/CastilloR-Blog/view/footer.php</file>
             <file>file:/C:/xampp/htdocs/CastilloR-Blog/post.php</file>
             <file>file:/C:/xampp/htdocs/CastilloR-Blog/controller/login-user.php</file>
-            <file>file:/C:/xampp/htdocs/CastilloR-Blog/controller/</file>
         </group>
     </open-files>
 </project-private>
