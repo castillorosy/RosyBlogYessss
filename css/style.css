@@ -3,7 +3,8 @@ body{
 }
 
 button{
-    color: red;
-    background-color: purple;
-    font-style: ariel;
+/*    color: red;*/
+    background-color: yellow;
+    font-style: oblique;
 }
+
