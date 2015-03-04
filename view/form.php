@@ -5,6 +5,7 @@ require_once (__DIR__ . "/../controller/login-verify.php");
 if (!authenticateUser()) {
     header("Location: " . $path . "index.php");
     die();
+//  authenticateUser helps the user login
 //    stop the page from loading
 }
 ?>
